@@ -1,5 +1,8 @@
 # LearningProject1 or Online-Jewel
 
+Use below to save git credential permanently.
+git config credential.helper store
+git push https://github.com/Vineeth-Agarwal/Online-Jewel
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
 ## Development server
